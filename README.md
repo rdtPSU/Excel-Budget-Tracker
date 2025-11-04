@@ -36,6 +36,8 @@ Inside the workbook:
 
 ## ⚙️ How It Works
 
+![Screenshot of Dashboard](https://github.com/rdtPSU/Excel-Budget-Tracker/blob/7ebd6cc9e8fb9e185d0e56c058eb8b6e4463d990/Budget%20Tracker%20Website.png)
+
 1. **Front-End Input Form**  
    - Dropdown menu to select spending category  
    - Field to enter amount  
