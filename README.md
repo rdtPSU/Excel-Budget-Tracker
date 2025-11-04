@@ -24,6 +24,8 @@ While I don’t specialize in programming, I used **AI assistance** to create a 
 
 ## 📊 Excel Dashboard
 
+![Screenshot of Dashboard](https://github.com/rdtPSU/Excel-Budget-Tracker/blob/5823989d7eb3ce5eb0a31b4a53e142af97bc2198/Budget%20Tracker%20Excel.png)
+
 Inside the workbook:
 - **Raw Data**: All transactions automatically stored from the input form  
 - **Pivot Table 1 – Category Breakdown**: Summarizes total spending per category  
